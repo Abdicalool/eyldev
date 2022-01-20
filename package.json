@@ -22,5 +22,13 @@
   "devDependencies": {
     "concurrently": "^7.0.0",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdicalool/eyldev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abdicalool/eyldev/issues"
+  },
+  "homepage": "https://github.com/Abdicalool/eyldev#readme"
 }
