@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://lag:lag123@lag.cjqva.mongodb.net/user?retryWrites=true&w=majority"
+}
